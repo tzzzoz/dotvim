@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/baicheng/fa-stack-dev/api/doc'
+let g:netrw_dirhist_2='/Users/baicheng/fa-stack-dev'
+let g:netrw_dirhist_3='/Users/baicheng/fa-stack-dev/logger-attributes'
+let g:netrw_dirhist_4='/Users/baicheng/fa-stack-dev/api/db_redshift/migrate'
+let g:netrw_dirhist_5='/Users/baicheng/fa-stack-dev/api'
